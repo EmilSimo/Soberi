@@ -13,8 +13,7 @@ background-size: cover;
         padding: 0;
         list-style-type: none;
         border: 2px solid #B65759;
-        border-radius: 20px 5px;
-        width: 550px;
+        width: 1080px;
         text-align: center;
         background-color: #B65759;
       }
@@ -25,32 +24,6 @@ background-size: cover;
         text-decoration: none;
         font-weight: bold;
         display: inline-block;
-        width: 100px;
-      }
-      #menu a:hover {
-        border-radius: 20px 5px;
-        background-color: #B65759;
-      }
-    #menu {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-        border: 2px solid #B65759;
-        border-radius: 20px 5px;
-        width: 550px;
-        text-align: center;
-        background-color: #B65759;
+        width: 250px;
       }
       #menu li { display: inline; }
-      #menu a {
-        color: #fff;
-        padding: 5px 10px;
-        text-decoration: none;
-        font-weight: bold;
-        display: inline-block;
-        width: 100px;
-      }
-      #menu a:hover {
-        border-radius: 20px 5px;
-        background-color: #B65759;
-      }
