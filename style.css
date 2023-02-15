@@ -13,14 +13,14 @@ background-size: cover;
         padding: 0;
         list-style-type: none;
         border: 2px solid #B65759;
-        width: 925px;
+        width: 1980px;
         text-align: center;
         background-color: #B65759;
        }
       #menu li { display: inline; }
       #menu a {
         color: #fff;
-        padding: 5px 10px;
+        padding: 0x 10px;
         text-decoration: none;
         font-weight: bold;
         display: inline-block;
