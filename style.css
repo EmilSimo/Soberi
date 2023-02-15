@@ -27,3 +27,4 @@ background-size: cover;
         width: 250px;
       }
       #menu li { display: inline; }
+#menu ul {display: flex;}
