@@ -38,7 +38,7 @@ text-align: justify;
 }
 h2{
 width:700px;
-background: linear-gradient(135deg, rgba(255,253,92) 0%,rgba(63,207,209) 100%);
+background: linear-gradient(135deg, rgba(255,253,92) 0%,rgba(0,0,0,0) 100%);
 mix-blend-mode: lighte
 background-repeat: no-repeat;
 }
