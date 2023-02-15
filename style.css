@@ -9,7 +9,7 @@ background-attachment: fixed;
 background-size: cover;
 }
  #menu {
-        display: flex; }
+        display: flex; 
         margin: 0;
         padding: 0;
         list-style-type: none;
