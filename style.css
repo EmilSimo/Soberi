@@ -1,4 +1,7 @@
-﻿    #navbar {
+body{
+background:url(foni.jpg);
+} 
+ #navbar {
         margin: 0;
         padding: 0;
         list-style-type: none;
@@ -44,6 +47,3 @@
         border-radius: 20px 5px;
         background-color: #B65759;
       }
-.body{
-background:url(фон.jpg);
-}
