@@ -20,7 +20,7 @@ background-size: cover;
       #menu li { display: inline; }
       #menu a {
         color: #fff;
-        /*padding: 0x 10px;*/
+        padding: 10x 10px;
         text-decoration: none;
         font-weight: bold;
         display: inline-block;
