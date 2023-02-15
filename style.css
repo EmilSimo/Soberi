@@ -8,6 +8,9 @@ background-attachment: fixed;
 -o-background-size: cover;
 background-size: cover;
 }
+.image{
+margin-left:-1900px;
+}
  #menu {
         margin: 0;
         margin-left:-30px;
