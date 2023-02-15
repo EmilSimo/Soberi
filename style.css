@@ -8,8 +8,8 @@ background-attachment: fixed;
 -o-background-size: cover;
 background-size: cover;
 }
- ul {display: flex; }
  #menu {
+        display: flex; }
         margin: 0;
         padding: 0;
         list-style-type: none;
@@ -17,7 +17,7 @@ background-size: cover;
         width: 925px;
         text-align: center;
         background-color: #B65759;
-      }
+       }
       #menu li { display: inline; }
       #menu a {
         color: #fff;
