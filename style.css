@@ -2,11 +2,11 @@
         margin: 0;
         padding: 0;
         list-style-type: none;
-        border: 2px solid #0066FF;
+        border: 2px solid #B65759;
         border-radius: 20px 5px;
         width: 550px;
         text-align: center;
-        background-color: #33ADFF;
+        background-color: #B65759;
       }
       #navbar li { display: inline; }
       #navbar a {
@@ -19,5 +19,5 @@
       }
       #navbar a:hover {
         border-radius: 20px 5px;
-        background-color: #0066FF;
+        background-color: #B65759;
       }
