@@ -21,3 +21,29 @@
         border-radius: 20px 5px;
         background-color: #B65759;
       }
+    #navbar {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        border: 2px solid #B65759;
+        border-radius: 20px 5px;
+        width: 550px;
+        text-align: center;
+        background-color: #B65759;
+      }
+      #navbar li { display: inline; }
+      #navbar a {
+        color: #fff;
+        padding: 5px 10px;
+        text-decoration: none;
+        font-weight: bold;
+        display: inline-block;
+        width: 100px;
+      }
+      #navbar a:hover {
+        border-radius: 20px 5px;
+        background-color: #B65759;
+      }
+body{
+background:url(fon);
+}
