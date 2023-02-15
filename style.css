@@ -27,11 +27,6 @@ background-size: cover;
         width: 250px;
       }
       #menu li { display: inline; }
-#minus{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 50px 50px;
-}
 p{
 text-align: justify;
 }
