@@ -8,6 +8,11 @@ background-attachment: fixed;
 -o-background-size: cover;
 background-size: cover;
 }
+#minus{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50px 50px;
+}
  #menu {
         display: flex; 
         margin: 0;
