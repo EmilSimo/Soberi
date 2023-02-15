@@ -8,6 +8,7 @@ background-attachment: fixed;
 -o-background-size: cover;
 background-size: cover;
 }
+ ul {display: flex; }
  #menu {
         margin: 0;
         padding: 0;
@@ -27,4 +28,3 @@ background-size: cover;
         width: 250px;
       }
       #menu li { display: inline; }
-      ul {display: flex; }
