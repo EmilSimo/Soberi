@@ -1,6 +1,16 @@
 body{
 background:url(foni.jpg);
 } 
+html {
+background-image: url(images/background.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
  #navbar {
         margin: 0;
         padding: 0;
