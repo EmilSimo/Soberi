@@ -36,9 +36,10 @@ background-size: cover;
 .soberi{
  float:left;
  margin-top:-45px;
+ width=device-width
 }
 h2{
-width:700px;
+width=device-width;
 background: linear-gradient(135deg, rgba(255,253,92) 0%,rgba(0,0,0,0) 100%);
 mix-blend-mode: lighte
 background-repeat: no-repeat;
