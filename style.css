@@ -38,7 +38,7 @@ background-size: cover;
  width=device-width
 }
 h2{
-width=device-width;
+width:50vw;
 background: linear-gradient(135deg, rgba(255,253,92) 0%,rgba(0,0,0,0) 100%);
 mix-blend-mode: lighte
 background-repeat: no-repeat;
