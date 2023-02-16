@@ -39,7 +39,7 @@ background-size: cover;
 h2{
 align:left;
 width:70vw;
-background: linear-gradient(135deg, rgba(255,253,92) 0%,rgba(0,0,0,0) 100%);
+background: linear-gradient(135deg, rgba(255,253,92) 0%,rgba(0,0,0,0) 50%);
 mix-blend-mode: lighte
 background-repeat: no-repeat;
 }
