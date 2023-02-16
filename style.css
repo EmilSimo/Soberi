@@ -17,7 +17,6 @@ background-size: cover;
         list-style-type: none;
         border: 2px solid #B65759;
         width:100vw;
-        width::50px;
         text-align: center;
         background-color: #B65759;
        }
@@ -38,16 +37,20 @@ background-size: cover;
  width=device-width
 }
 h2{
+align:left;
 width:70vw;
 background: linear-gradient(135deg, rgba(255,253,92) 0%,rgba(0,0,0,0) 100%);
 mix-blend-mode: lighte
 background-repeat: no-repeat;
 }
 .kartin{
-/*float:left;*/
+float:right;
+margin-right:10px;
+margin-top:-10px;
+Width=device-width;
 }
 #center{
-/*margin-left:500px;*/
-text-align:center;
-width=device-width
+text-align:left;
+width:100vw;
+font-size:22px;
 }
