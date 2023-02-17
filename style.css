@@ -59,6 +59,7 @@ line-height: 45px;
 text-align:left;
 width:100vw;
 font-size:22px;
+ white-space: pre-line;
 }
 {
 .kartin2{
