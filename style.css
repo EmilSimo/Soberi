@@ -78,14 +78,15 @@ bottom: 0px; left: -50px;
 .kartin4{
 position: relative;
 top:50px;
-    width: 1050px;
-    margin-left: auto;
-    margin-right: auto;
+width: 1050px;
+margin-left: auto;
+margin-right: auto;
 }
 
 .kartin5{
 position: relative;
 top:-300px;
-    width: 0px;
-    margin-left: auto;
-    margin-right: auto;
+width: 0px;
+margin-left: auto;
+margin-right: auto;
+}
