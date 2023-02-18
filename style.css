@@ -27,7 +27,7 @@ background-size: cover;
         margin-top:-10px;
         list-style-type: none;
         border: 2px solid #B65759;
-        width:101vw;
+        width:105vw;
         text-align: center;
         background-color: #B65759;
        }
@@ -38,7 +38,7 @@ background-size: cover;
         text-decoration: none;
         font-weight: bold;
         display: inline-block;
-        width:15vw;
+        width:17vw;
       }
       #menu li { display: inline; }
 
@@ -73,7 +73,7 @@ bottom: 0px; left: -50px;
 }
 .kartin3{
     position:relative;
-    right:50px;
+    right:-100px;
 }
 
 
