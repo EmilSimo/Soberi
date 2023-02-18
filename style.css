@@ -73,7 +73,13 @@ bottom: 0px; left: -50px;
 }
 .kartin3{
     position:relative;
-    right:-100px;
+    right:-200px;
 }
-
-
+.kartin4{
+    position:relative;
+    right:-350px;
+}
+#so{
+    position:relative;
+    right:-300px;
+}
