@@ -1,6 +1,12 @@
 /*html{
 width=device-width;
 }*/
+.max{ 
+position: relative;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+     } 
 h1{
 position:center;
 text-align: center;
