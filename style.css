@@ -73,5 +73,7 @@ float:left;
 margin-left:10px;
 margin-top:70;
 Width=device-width;
+position:relative;
+down:50px;left:50px;
 }
 
