@@ -96,3 +96,7 @@ display: none;
 .block span{
  cursor: pointer;
 }
+#content{
+    position:relative;
+    left:20px;
+}
