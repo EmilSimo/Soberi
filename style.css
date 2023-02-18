@@ -100,3 +100,17 @@ display: none;
     position:relative;
     left:20px;
 }
+.nad{
+position:relative;
+bottom:100px;
+left:0px;
+align-items: center;
+display: flex;
+flex-wrap: wrap;
+list-style: none;
+margin: 0;
+padding: 0;
+grid-column: span 2;
+justify-content: space-evenly;
+}
+
