@@ -62,9 +62,9 @@ Width=device-width;
 }
 .kartin2{
 float:left;
-Width=device-width;
+Width:100vw;
 position:relative;
-bottom:125px;left:10px;
+bottom:75px;left:10px;
 }
 #center{
 line-height: 45px;
