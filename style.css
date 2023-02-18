@@ -58,13 +58,6 @@ background-repeat: no-repeat;
 float:right;
 margin-right:10px;
 margin-top:-10px;
-Width=device-width;
-}
-.kartin2{
-float:left;
-Width:100vw;
-position:relative;
-bottom:75px;left:10px;
 }
 #center{
 line-height: 45px;
@@ -73,6 +66,11 @@ width:100vw;
 font-size:22px;
 white-space: pre-line;
 }
-
+.kartin2{
+float:left;
+margin-top:10;
+position:relative;
+bottom: 0px; left: -50px;
+}
 
 
