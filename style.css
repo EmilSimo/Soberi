@@ -60,6 +60,12 @@ margin-right:10px;
 margin-top:-10px;
 Width=device-width;
 }
+.kartin2{
+float:left;
+Width=device-width;
+position:relative;
+down:50px;left:50px;
+}
 #center{
 line-height: 45px;
 text-align:left;
@@ -67,11 +73,6 @@ width:100vw;
 font-size:22px;
 white-space: pre-line;
 }
-{
-.kartin2{
-float:left;
-Width=device-width;
-position:relative;
-down:50px;left:50px;
-}
+
+
 
