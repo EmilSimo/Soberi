@@ -1,9 +1,9 @@
 /*html{
 width=device-width;
 }*/
-.zag{
+/*.zag{
     border:dashed
-}
+}*/
 .max{ 
 position: relative;
     width: 1000px;
@@ -16,7 +16,7 @@ text-align: center;
 width=device-width;
 }
 html {
-background-image: url(Fon3.png);
+background-image: url(fon3.png);
 background-repeat: no-repeat;
 background-position: center center;
 background-attachment: fixed;
