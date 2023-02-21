@@ -1,6 +1,9 @@
 /*html{
 width=device-width;
 }*/
+.zag{
+    border:dashed
+}
 .max{ 
 position: relative;
     width: 1000px;
