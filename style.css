@@ -10,6 +10,13 @@ position: relative;
     margin-left: auto;
     margin-right: auto;
      } 
+.new{
+align:left;
+width:70vw;
+background: linear-gradient(135deg, rgba(182,87,89) 0%,rgba(0,0,0,0) 50%);
+mix-blend-mode: lighte
+background-repeat: no-repeat;
+}
 h1{
 position:center;
 text-align: center;
