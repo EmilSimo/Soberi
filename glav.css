@@ -13,8 +13,10 @@ align-items:center;
 }
 #block{
 position:relative;
-right:-600px;
+right:-650px;
+top:-50px;
 margin-rigt:auto;
 margin-left:auto;
 }
+
 
